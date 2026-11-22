@@ -1,8 +1,13 @@
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/khususcrypto0000-coder/bayang-pasar-malam/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/khususcrypto0000-coder/bayang-pasar-malam/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
 # Bayang Pasar Malam
 
 A complete, original top-down stealth game that plays offline in a desktop
 browser from static files. Entry for the make.fun bounty
-**"Make the best stealth game"** (`best-stealth-game-20261121-1759`).
+**"Make the best stealth game"** (`best-stealth-game-20261121-1759`):
+https://make.fun/bounty/best-stealth-game-20261121-1759
 
 ## The game
 
@@ -77,3 +82,6 @@ screenshots; `shots.json` lists the four shipped shots.
 ## License
 
 MIT — see `LICENSE`.
+
+---
+Built for make.fun — https://make.fun/bounty/best-stealth-game-20261121-1759 (referral code: 452ydmv8)
